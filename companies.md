@@ -17,6 +17,7 @@ across multiple countries
 - [Ackee](https://www.ackee.cz/kariera) - A digital agency that develops mobile and web applications
 - [Pilulka](https://pracevpilulce.cz/pozice) - An e-commerce pharmacy and healthcare platform offering online services
 - [Košík.cz](https://kariera.kosik.cz/pracovni-pozice/) - An online grocery delivery service
+- [Tabidoo](https://tabidoo.cloud/cs/careers) - A no-code platform that helps businesses automate workflows and manage data
 
 ---
 
