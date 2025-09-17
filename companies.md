@@ -14,6 +14,7 @@ across multiple countries
 - [Applifting](https://applifting.io/careers) - A technology company focused on creating digital experiences and career opportunities
 - [STRV](https://www.strv.com/careers) - A technology company that develops web and software solutions
 - [Blackfish & Co.](https://blackfish.co/careers/) - A digital design and development agency
+- [Ackee](https://www.ackee.cz/kariera) - A digital agency that develops mobile and web applications
 - [Pilulka](https://pracevpilulce.cz/pozice) - An e-commerce pharmacy and healthcare platform offering online services
 
 ---
