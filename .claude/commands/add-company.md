@@ -20,6 +20,7 @@ Save company url to companies.md file
 /career
 /jobs
 /join-us
+/pozice
 ```
 
 ## Implementation Steps
