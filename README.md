@@ -1,5 +1,7 @@
 # Karierky - Prague Tech Companies
 
+📋 **[View Companies Directory →](companies.md)**
+
 ## Overview
 
 A curated directory of technology companies in Prague with links to their career pages.

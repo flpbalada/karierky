@@ -9,6 +9,8 @@ sportswear, and wellness products
 - [Knihobot](http://knihobot.cz/kariera) - Re-commerce platform that buys, sells, and circulates used books online
 across multiple countries
 - [Alza](https://kariera.alza.cz/) - Leading online electronics and consumer goods retailer in Central Europe
+- [uLékaře.cz](https://www.ulekare.cz/kariera) - Czech medical online consultation platform with 350+ doctors available 24/7
+- [Rohlik Group](https://career.rohlik.group/cz/jobs) - Online grocery delivery service operating in the Czech Republic
 
 ---
 
