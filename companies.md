@@ -16,6 +16,7 @@ across multiple countries
 - [Blackfish & Co.](https://blackfish.co/careers/) - A digital design and development agency
 - [Ackee](https://www.ackee.cz/kariera) - A digital agency that develops mobile and web applications
 - [Pilulka](https://pracevpilulce.cz/pozice) - An e-commerce pharmacy and healthcare platform offering online services
+- [Košík.cz](https://kariera.kosik.cz/pracovni-pozice/) - An online grocery delivery service
 
 ---
 
