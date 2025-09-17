@@ -103,6 +103,16 @@ WebSearch query="[company_name] about company information"
 - **Duplicate handling**: Show existing entry, ask to update/skip
 - **Insufficient data**: Prompt user for missing required fields
 
+### 7. Final Validation
+
+```bash
+# Check markdown formatting and fix any issues using local package commands
+!`yarn lint:md:fix`
+
+# If there are still issues, show them and fix them
+!`yarn lint:md`
+```
+
 ## Implementation Details
 
 ### Search Command Specifications
