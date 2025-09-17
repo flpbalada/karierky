@@ -13,6 +13,7 @@ across multiple countries
 - [Rohlik Group](https://career.rohlik.group/cz/jobs) - Online grocery delivery service operating in the Czech Republic
 - [Applifting](https://applifting.io/careers) - A technology company focused on creating digital experiences and career opportunities
 - [STRV](https://www.strv.com/careers) - A technology company that develops web and software solutions
+- [Blackfish & Co.](https://blackfish.co/careers/) - A digital design and development agency
 - [Pilulka](https://pracevpilulce.cz/pozice) - An e-commerce pharmacy and healthcare platform offering online services
 
 ---
