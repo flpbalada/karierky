@@ -1,0 +1,11 @@
+{
+  "name": "karierky",
+  "scripts": {
+    "lint:md": "markdownlint *.md",
+    "lint:md:fix": "markdownlint --fix *.md"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.37.0"
+  },
+  "packageManager": "yarn@1.22.22"
+}
