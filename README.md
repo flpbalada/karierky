@@ -11,8 +11,8 @@ A curated directory of technology companies in Prague with links to their career
 Simple markdown file with one company per line using markdown links:
 
 ```markdown
-[Company Name](https://company.com/careers) - Brief description of what they do
-[Another Company](https://another.com/jobs) - E-commerce platform, React/Node.js
+- [Company Name](https://company.com/careers) - Brief description of what they do
+- [Another Company](https://another.com/jobs) - E-commerce platform, React/Node.js
 ```
 
 ## Project Structure

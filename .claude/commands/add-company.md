@@ -83,14 +83,14 @@ WebSearch query="[company_name] about company information"
 
 ```bash
 # Format company entry according to companies.md structure from README.md:
-[Company Name](career_page_url) - Brief description of what they do
+- [Company Name](career_page_url) - Brief description of what they do
 
 # Requirements:
-# - Each company on one line
+# - Each company on one line starting with '-'
 # - Description required for all companies
 # - Description must be one short sentence describing what the company does
 # - Entire entry must fit on one line
-# - Use markdown link format: [Company Name](URL) - Description
+# - Use markdown list format: - [Company Name](URL) - Description
 
 # Append to companies.md file
 ```
@@ -145,7 +145,7 @@ WebSearch query="[company_name] company what does the company do business descri
 2. **WebFetch → Company Data**: Extract only company name and ONE SHORT SENTENCE description
 3. **Company Data → Grep Search**: Use extracted company name/domain for duplicate detection
 4. **Search Results → User Confirmation**: Show duplicates if found, get user decision
-5. **Final Data → File Append**: Format and add to companies.md using format: [Company Name](URL) - Description
+5. **Final Data → File Append**: Format and add to companies.md using format: - [Company Name](URL) - Description
 
 ### Decision Points
 
@@ -153,7 +153,7 @@ WebSearch query="[company_name] company what does the company do business descri
 - **Duplicate Found**: Present to user with options: skip, update, or add anyway
 - **Search Failures**: Fall back to manual input prompts
 - **Data Quality**: Validate required fields (company name, one-sentence description) before adding
-- **Format Validation**: Ensure entire entry fits on one line with markdown link format
+- **Format Validation**: Ensure entire entry fits on one line with markdown list format starting with '-'
 
 ## Examples
 
@@ -168,7 +168,7 @@ https://atlassian.com/company/careers
 **Expected Output:**
 
 ```text
-[Atlassian](https://atlassian.com/company/careers) - Develops collaboration and productivity software for teams
+- [Atlassian](https://atlassian.com/company/careers) - Develops collaboration and productivity software for teams
 ```
 
 ### Example 2: Czech Company Career Page
@@ -182,7 +182,7 @@ https://avast.com/cs-cz/kariera
 **Expected Output:**
 
 ```text
-[Avast](https://avast.com/cs-cz/kariera) - Provides cybersecurity software and services for consumers and businesses
+- [Avast](https://avast.com/cs-cz/kariera) - Provides cybersecurity software and services for consumers and businesses
 ```
 
 ### Example 3: Invalid URL (Non-Career Page)
@@ -209,7 +209,7 @@ https://microsoft.com/careers
 **Expected Behavior (if Microsoft already exists):**
 
 - Error: Company already exists in companies.md
-- Show existing entry: `[Microsoft](https://microsoft.com/jobs) - Develops software, services and solutions`
+- Show existing entry: `- [Microsoft](https://microsoft.com/jobs) - Develops software, services and solutions`
 - Command should exit with error message
 
 ### Example 5: URL Validation Error
